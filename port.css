@@ -1,0 +1,44 @@
+.navbar{
+    padding-left: 20%;
+    margin-top: -10%;
+    display: flex;
+    height: 50%;
+    background-color: white;
+    width: 500%;
+    position: relative;
+    right: 2%;
+    gap: 50%;
+
+}
+
+body{
+    background-color: pink;
+    font-family: "Merriweather", sans-serif;
+    /* font + family */
+    overflow-x: hidden;
+    /* overflow means that there is no scroll bar in horizontal section */
+    transition: 0.5s;
+}
+.iitg{
+    margin-top: 25%;
+    height: 70%;
+}
+.ach{
+    margin-top: 8%;
+    font-size: 360%;
+    font-weight: 900;
+}
+.cnt{
+    position: relative;
+    
+    margin-left: 200%;
+    text-align: center;
+    margin-top: 8%;
+    font-size: 260%;
+    font-weight: 900;
+    z-index: 3;
+}
+.img{
+    height: 1%;
+    width: 100px;
+}
